@@ -1,0 +1,1 @@
+g++ -o knock-"$1" knock-"$1".cpp
