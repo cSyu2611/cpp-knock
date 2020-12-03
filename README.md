@@ -2,7 +2,7 @@
 [京都産業大のノック](http://www.cc.kyoto-su.ac.jp/~mmina/bp1/hundredKnocks.html])を参考にC++のノックをしてみる
 
 # 各種スクリプト
-- basicsフォルダ内
+- 各フォルダ内
 
 コンパイルは
 ```
